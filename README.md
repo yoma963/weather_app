@@ -5,7 +5,7 @@
 ### Demo - Deployed over Github Pages
 
 ### APIs Used
-[Open Weather APIs](https://openweathermap.org/)
+[Open Weather APIs](https://yoma963.github.io/weather_app/)
 
 ### API Info
 * Method: `GET`
