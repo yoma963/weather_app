@@ -3,9 +3,10 @@
 ![](weather_app.PNG)
 
 ### Demo - Deployed over Github Pages
+[LIVE DEMO](https://yoma963.github.io/weather_app/)
 
 ### APIs Used
-[Open Weather APIs](https://yoma963.github.io/weather_app/)
+[Open Weather APIs](https://openweathermap.org/api)
 
 ### API Info
 * Method: `GET`
